@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  font-size: 18px;
+  border: none;
+  border-radius: 3px;
+  background-color: rgb(21, 114, 252);
+  color: aliceblue;
+  margin: 100px auto;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(0, 102, 255);
+}
+
+.img {
+  width: 500px;
+  margin: 30px auto;
+}
+
+img {
+  width: 100%;
+}
